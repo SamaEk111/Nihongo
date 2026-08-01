@@ -824,3 +824,54 @@ body.dark-mode .app-box p{
 
 }
 
+
+
+/*==========================
+      Coming Soon
+==========================*/
+
+.coming-soon{
+
+    min-height:80vh;
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:center;
+
+    align-items:center;
+
+    text-align:center;
+
+    padding:20px;
+
+}
+
+.coming-soon h1{
+
+    font-size:4rem;
+
+    color:var(--primary-color);
+
+    margin-bottom:20px;
+
+}
+
+.coming-soon p{
+
+    font-size:1.2rem;
+
+    color:var(--text-muted);
+
+    margin-bottom:40px;
+
+    max-width:600px;
+
+}
+
+.coming-soon .course-btn{
+
+    padding:15px 35px;
+
+}
